@@ -1,0 +1,14 @@
+appname: asktop
+runmode: dev
+httpport: 8881
+#username:
+#  - 001
+#  - 002
+
+# mysql配置
+mysql:
+  host: 127.0.0.1
+  port:
+  username: root
+  password: kf123456
+  database: asktop
